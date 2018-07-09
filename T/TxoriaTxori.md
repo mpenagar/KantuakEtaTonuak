@@ -1,5 +1,9 @@
 # Txoria Txori
 
+   * Egilea: Mikel Laboa
+   * Diska: Bat-Hiru
+   * Urtea: 1974
+
 ```
 Rem             Do   Fa
 Hegoak ebaki ba nizkion, 
