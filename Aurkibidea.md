@@ -1,6 +1,6 @@
 # Aurkibidea
 
-* [Bizkaia maite](N/BizkaiaMaite.md) - Zea Mays
+* [Bizkaia maite](N/BizkaiaMaite.md) - Benito Lertxundi
 * [Negua joan da ta](N/NeguaJoanDaTa.md) - Zea Mays
 * [Ni naiz](N/NiNaiz.md) - Xabier Lete
 * [Txoria Txori](T/TxoriaTxori.md) - Mikel Laboa
