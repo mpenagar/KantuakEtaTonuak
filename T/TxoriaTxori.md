@@ -3,6 +3,8 @@
    * Egilea: ***Mikel Laboa***
    * Diska: Bat-Hiru
    * Urtea: 1974
+   * Tonua: Lam
+
 
 ```
 Rem             Do   rem
