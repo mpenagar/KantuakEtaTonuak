@@ -1,6 +1,6 @@
 # Aurkibidea
 
-* [Txoria Txori](T/TxoriaTxori.txt) - Mikel Laboa
+* [Txoria Txori](T/TxoriaTxori.md) - Mikel Laboa
 
 
 
