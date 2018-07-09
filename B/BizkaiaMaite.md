@@ -7,18 +7,46 @@
 
 
 ```
-Bizkaia maite, atzo goizean ikusi zintudan
+[ Rem Solm La7 Rem ]
+[ Rem Solm La7 Rem ][ Rem Solm La7 Rem ]
+
+
+Rem        Mi7
+Bizkaia maite,
+La7           Rem
+atzo goizean ikusi zintudan
+Re        Solm
 soineko xuriz jantzia
+Do         Fa              La7
 buruan orlegi, bihotzean sua
-nere gogoaren ertzatik pasatzen
-zure usain gozoa, lana, amodio, itsasoa,
+Rem    Mi7    
+nere gogoaren
+La7          Rem
+ertzatik pasatzen
+Re         Solm      
+zure usain gozoa, lana,
+Do       Fa    La7
+amodioa, itsasoa,
+Solm    Rem   La7
 nere baitan sartzen.
 
+Rem          Mi7
 Atzo goizean entzun nuen
+La7       Rem
 zure berbaren oihartzuna
-zure kantaren fereka, bihotzean kilika
-eta oihartzunaren haunditasunean
-murgilduz joan nintzen, jauzika, hegaka.
+Re        Solm
+zure kantaren fereka,
+Do         Fa
+bihotzean kilika
+Re          Solm
+eta oihartzunaren
+Do          Fa                    La7
+haunditasunean murgilduz joan nintzen,
+Solm Rem   La7 Rem
+jauzika, hegaka.
+
+[ Rem Solm La7 Rem ]
+[ Rem Solm La7 Rem ]
 
 Bart arratsean, arbasoen baratzaren ondoan
 bertsotan eta dantzan
