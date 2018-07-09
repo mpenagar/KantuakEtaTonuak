@@ -1,7 +1,7 @@
 # Izenburua
 
    * Egilea: ***Xabier Lete***
-   * Diska: xxx
+   * Diska: Xabier Lete
    * Urtea: 1974
    * Tonua: Dom
 
