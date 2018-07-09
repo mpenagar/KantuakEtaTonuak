@@ -1,5 +1,6 @@
 # Txoria Txori
 
+```
 Rem             Do   Fa
 
 Hegoak ebaki ba nizkion, 
@@ -29,3 +30,7 @@ eta nik txoria nuen mai te.
     Fa      Do          Rem
 
 eta nik txoria nuen mai te.
+```
+
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0NW7CZxOxhI/0.jpg)](http://www.youtube.com/watch?v=0NW7CZxOxhI)
