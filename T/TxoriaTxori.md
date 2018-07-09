@@ -1,6 +1,6 @@
 # Txoria Txori
 
-   * Egilea: Mikel Laboa
+   * Egilea: ***Mikel Laboa***
    * Diska: Bat-Hiru
    * Urtea: 1974
 
