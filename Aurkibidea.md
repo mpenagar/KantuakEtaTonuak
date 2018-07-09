@@ -1,5 +1,6 @@
 # Aurkibidea
 
+* [Negua joan da ta](N/NeguaJoanDaTa.md) - Zea Mays 
 * [Txoria Txori](T/TxoriaTxori.md) - Mikel Laboa
 
 
