@@ -35,3 +35,5 @@ Izpi lasaigarri bat, negua joan da ta, negua joan da ta
 soinu bakar-bakarra, zure bular aldean, (hiru aldiz)
 negua joan da ta, negua joan da ta.
 ```
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7jrRM7y8yHA/0.jpg)](http://www.youtube.com/watch?v=7jrRM7y8yHA)
