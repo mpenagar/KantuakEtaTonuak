@@ -95,8 +95,6 @@ Do         Fa              La7
 buruan orlegi, bihotzean sua
 Solm       Rem  La7
 lirain, sendo, eder.
-
-
 ```
 
 
