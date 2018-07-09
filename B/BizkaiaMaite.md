@@ -8,7 +8,7 @@
 
 ```
 [ Rem Solm La7 Rem ]
-[ Rem Solm La7 Rem ][ Rem Solm La7 Rem ]
+[ Rem Solm La7 Rem ]
 
 
 Rem        Mi7
@@ -48,23 +48,52 @@ jauzika, hegaka.
 [ Rem Solm La7 Rem ]
 [ Rem Solm La7 Rem ]
 
-Bart arratsean, arbasoen baratzaren ondoan
+Rem      Mi7
+Bart arratsean,
+La7           Rem
+arbasoen baratzaren ondoan
+Re         Solm
 bertsotan eta dantzan
+Do           Fa              La7
 lotu ziren alai, piper eta gatza
+Solm  Rem La7
 sabel emankor.
 
-Bizkaia maite, atzo goizean ikusi zintudan
+Rem        Mi7
+Bizkaia maite,
+La7           Rem
+atzo goizean ikusi zintudan
+Re        Solm
 soineko xuriz jantzia
+Do         Fa              La7
 buruan orlegi, bihotzean sua
-olerkari penatuaren gozo eta mina
-amodio eta kanta, zure berba leun
+Rem   Mi7
+olerkari
+La7          Rem
+penatuaren gozo eta mina
+Re     Solm
+amodio eta kanta,
+Do           Fa
+zure berba leun
+Re        Solm
 zure gatzaren bizia
+Do          Fa             La7
 zure burdinaren goria dira gaur
+Solm Rem  La7 Rem
 neretzat aterbe.
 
-Bizkaia maite, atzo goizean ikusi zintudan
+Rem        Mi7
+Bizkaia maite,
+La7           Rem
+atzo goizean ikusi zintudan
+Re        Solm
 soineko xuriz jantzia
-buruan orlegi, bihotzean sua, lirain, sendo, eder.
+Do         Fa              La7
+buruan orlegi, bihotzean sua
+Solm       Rem  La7
+lirain, sendo, eder.
+
+
 ```
 
 
