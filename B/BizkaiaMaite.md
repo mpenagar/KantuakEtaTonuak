@@ -82,6 +82,9 @@ zure burdinaren goria dira gaur
 Solm Rem  La7 Rem
 neretzat aterbe.
 
+[ Rem Solm La7 Rem ]
+[ Rem Solm La7 Rem ]
+
 Rem        Mi7
 Bizkaia maite,
 La7           Rem
