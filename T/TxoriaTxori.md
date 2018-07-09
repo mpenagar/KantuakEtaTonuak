@@ -5,7 +5,7 @@
    * Urtea: 1974
 
 ```
-Rem             Do   Fa
+Rem             Do   rem
 Hegoak ebaki ba nizkion, 
    Do         Rem
 neria izango zen,
