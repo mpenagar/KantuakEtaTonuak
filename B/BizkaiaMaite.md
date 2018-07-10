@@ -7,9 +7,7 @@
 
 
 ```
-[ Rem Solm La7 Rem ]
-[ Rem Solm La7 Rem ]
-
+[ Rem Solm La7 Rem ] x 2
 
 Rem        Mi7
 Bizkaia maite,
@@ -45,8 +43,7 @@ haunditasunean murgilduz joan nintzen,
 Solm Rem   La7 Rem
 jauzika, hegaka.
 
-[ Rem Solm La7 Rem ]
-[ Rem Solm La7 Rem ]
+[ Rem Solm La7 Rem ] x 2
 
 Rem      Mi7
 Bart arratsean,
@@ -82,8 +79,7 @@ zure burdinaren goria dira gaur
 Solm Rem  La7 Rem
 neretzat aterbe.
 
-[ Rem Solm La7 Rem ]
-[ Rem Solm La7 Rem ]
+[ Rem Solm La7 Rem ] x 2
 
 Rem        Mi7
 Bizkaia maite,
