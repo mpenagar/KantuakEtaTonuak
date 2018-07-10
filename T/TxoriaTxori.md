@@ -7,7 +7,7 @@
 
 
 ```
-Rem             Do   rem
+Rem             Do   Rem
 Hegoak ebaki ba nizkion, 
    Do         Rem
 neria izango zen,
@@ -24,7 +24,7 @@ eta nik txoria nuen mai te.
     Fa      Do          Rem
 eta nik txoria nuen mai te.
 
-Rem  Do  Fa   Do  Re
+Rem  Do  Fa   Do  Rem
 La la...
 ```
 
