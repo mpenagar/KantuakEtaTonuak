@@ -45,4 +45,4 @@ Ni zurekin? ja, ja!
 ```
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HJJa46SZvEI/0.jpg)](http://www.youtube.com/watch?v=HJJa46SZvEI)
+[![YouTube](http://img.youtube.com/vi/HJJa46SZvEI/0.jpg)](http://www.youtube.com/watch?v=HJJa46SZvEI)
