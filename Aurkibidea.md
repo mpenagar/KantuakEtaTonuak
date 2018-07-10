@@ -1,5 +1,6 @@
 # Aurkibidea
 
+* [Behin batean Loiolan](B/BehinBateanLoiolan.md) - Egan
 * [Bizkaia maite](B/BizkaiaMaite.md) - Benito Lertxundi
 * [Negua joan da ta](N/NeguaJoanDaTa.md) - Zea Mays
 * [Ni naiz](N/NiNaiz.md) - Xabier Lete
