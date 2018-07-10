@@ -6,70 +6,70 @@
 * Tonua: FaM ( --> [ReM-ko](NeguaJoanDaTa-ReM.md) bertsioa)
 
 ```
-[Fa Do Solm Si] x 4
+[Fa Do SolmSib] x 4
 
-Fa      Do         Solm       Si       Fa
+Fa      Do         Solm       Sib      Fa
 Elurrak joan direnean nire mendien artean
-      Do         Solm       Si 
+      Do         Solm       Sib
 eguzkia teloian atzekaldean da. 
-Fa   Do           Solm       Si      Fa
+Fa   Do           Solm       Sib     Fa
 Ateratzeko beldur da, beldur eszenikoa,
-          Do             Solm       Si 
+          Do             Solm       Sib
 aspaldi antzeztu ez duen obra honetan. 
 
-Fa      Do          Solm        Si        Fa
+Fa      Do          Solm        Sib       Fa
 Izpi txiki-txikiren bat agertuz doa gaurkoan, 
-         Do          Solm        Si 
+         Do          Solm        Sib
 poztasun handi batek besarkatzen nau. 
-Fa       Do       Solm   Si          Fa
+Fa       Do       Solm   Sib         Fa
 Mesedez, ozen esan negua joan egin dela 
-        Do              Solm        Si 
+        Do              Solm        Sib
 nire arima hotzak ez du sinisten eta. 
 
-Do               Si                  Do 
+Do               Sib                 Do 
 Laztandu nazazu orain ur urdinen artean, 
-                  Si                Do
+                  Sib               Do
 orain lainorik ez da, aurpegi biluziak, 
-               Si                 Do
+               Sib                Do
 ta larrua jotzean garrasirik ozenena.
-               Si                   Fa
+               Sib                  Fa
 Gordin amaigabea... negua joan da ta.
 
-[Fa Do Solm Si] x 2
+[Fa Do SolmSib] x 2
 
-Fa      Do        Solm       Si             Fa
+Fa      Do        Solm       Sib            Fa
 Jaioberrien antzera taupaden beharra dut orain,
-            Do            Solm               Si 
+            Do            Solm               Sib
 belarriekin ikusteko nire begiek entzuten ez dutena.
-Fa       Do        Solm    Si        Fa
+Fa       Do        Solm    Sib       Fa
 Mesedez, ozen esan negua joan egin dela 
-      Do         Solm     Si 
+      Do         Solm     Sib
 izara guztiak erre ditut eta.
 
-Do               Si                  Do 
+Do               Sib                 Do 
 Laztandu nazazu orain ur urdinen artean,...
 
-[Fa Do Solm Si]
+[Fa Do SolmSib]
 
 Fa    Do        Mim
 Soinu bakar-bakarra
 Fa   Do        Mim
 zure bular aldean, 
-Fa    Do      Solm Si 
+Fa    Do      Solm Sib
 negua joan da ta...
-Fa     Do           Solm Si        Fa
+Fa     Do           Solm Sib       Fa
 Borobildu zaizkit ertzak zure ondoan. 
-Fa   Do         Solm   Si          Fa
+Fa   Do         Solm   Sib         Fa
 Izpi lasaigarri bat, negua joan da ta,
-Fa Do         Solm Si 
+Fa Do         Solm Sib
 negua joan da ta
-Fa    Do        Solm Si   
+Fa    Do        Solm Sib  
 soinu bakar-bakarra,      
-Fa   Do         Solm Si   
+Fa   Do         Solm Sib  
 zure bular aldean,
-Fa    Do        Solm      Si        Fa      |
+Fa    Do        Solm      Sib       Fa      |
 soinu bakar-bakarra, zure bular aldean,     | (bi aldiz)
-Fa  Do        Solm    Si        Fa
+Fa  Do        Solm    Sib       Fa
 negua joan da ta, negua joan da ta.
 ```
 
