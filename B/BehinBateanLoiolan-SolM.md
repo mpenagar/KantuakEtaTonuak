@@ -17,7 +17,7 @@ Sol Re/Fa# Mim Re
 Do Sim Lam Re7
 Sol Solsus4 Sol ]
 
-Solsus4          Do Re Min
+Solsus4          Do Re Mim
 Behin batian, Loiolan,
     Do    Sol Re/Fa# Mim
 erromeria zan.
@@ -25,7 +25,7 @@ erromeria zan.
 Hantxen ikusi nuen
      Do         Re Resus4 Re
 neskatxa bat plazan
-Resus4       Do Re Min
+Resus4       Do Re Mim
 txoria baino ere
    Do      Sol Re/Fa# Mim
 ariñago dantzan.
@@ -34,7 +34,7 @@ Huraxe bai polita,
       Re7      Sol Solsus4 Sol
 han politik ba zan!
 
-Solsus4     Do Re Min
+Solsus4     Do Re Mim
 Esan nion desio
       Do     Sol Re/Fa# Mim
 senti nuen gisan,
@@ -42,7 +42,7 @@ senti nuen gisan,
 harekin hizketa bat
        Do   Re Re6 Re7
 nahi nuela izan.
-Resus4         Do Re Min
+Resus4         Do Re Mim
 Erantzun zidan ezik
     Do        Sol Re/Fa# Mim
 atsegin har nezan
@@ -50,7 +50,8 @@ atsegin har nezan
 adituko zidala
          Re7   Sol Solsus4 Sol
 zer nahi nion esan.
- 
+
+
 [ Do Re Mim Do
 Sol Re/Fa# Mim Re
 Do Sim Lam Do
@@ -60,23 +61,49 @@ Sol Re/Fa# Mim Re
 Do Sim Lam Re7
 Sol Solsus4 Sol ]
 
+
+Solsus4     Do Re Mim
 Aurkitu ginanian
+     Do     Sol Re/Fa# Mim
 inor gabe jiran,
+    Re     Do Sim Lam
 koloriak gorritu
+   Do      Re Resus4 Re
 arazi zizkidan.
+Resus4      Do Re Mim
 Kontatuko dizuet
+     Do    Sol Re/Fa# Mim
 guztia segidan,
+     Re       Do Sim Lam
 zer esan nion eta
+      Re7       Sol Solsus4 Sol
 nola erantzun zidan.
 
+Solsus4      Do Re Mim
 -Dama polita zera
-polita guztiz, ai!
+    Do         Sol Re/Fa# Mim
+polita guztiz, bai!
+       Re     Do Sim Lam
 baiñan halere zaude
+     Do       Re Re6 Re7
 oraindik ezkongai.
+Resus4         Do Re Mim
 Ezkon gaitezen biok!
+     Do      Sol Re/Fa# Mim
 Esan zaidazu bai!
+      Re      Do Sim Lam
 -Ni zurekin ezkondu?
+     Re7         Sol Solsus4 Sol
 Ni zurekin? jai, jai!
+
+[ Do Re Mim Do
+Sol Re/Fa# Mim Re
+Do Sim Lam Do
+Re Re6 Re7 Resus4
+Do Re Mim Do
+Sol Re/Fa# Mim Re
+Do Sim Lam Re7
+Sol Solsus4 Sol ]
 
 ```
 
