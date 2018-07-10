@@ -3,36 +3,73 @@
 * Egilea: ***Zea Mays***
 * Diska: Era
 * Urtea: 2010
-* Tonua: FaM ([ReM-ko](NeguaJoanDaTa-ReM.md) bertsioa)
+* Tonua: FaM ( --> [ReM-ko](NeguaJoanDaTa-ReM.md) bertsioa)
 
 ```
+[Fa Do SolmSi ] x 4
+
+Fa      Do         Solm       Si       Fa
 Elurrak joan direnean nire mendien artean
+      Do         Solm       Si 
 eguzkia teloian atzekaldean da. 
+Fa   Do           Solm       Si      Fa
 Ateratzeko beldur da, beldur eszenikoa,
+          Do             Solm       Si 
 aspaldi antzeztu ez duen obra honetan. 
 
+Fa      Do          Solm        Si        Fa
 Izpi txiki-txikiren bat agertuz doa gaurkoan, 
+         Do          Solm        Si 
 poztasun handi batek besarkatzen nau. 
+Fa       Do       Solm   Si          Fa
 Mesedez, ozen esan negua joan egin dela 
+        Do              Solm        Si 
 nire arima hotzak ez du sinisten eta. 
 
+Do               Si                  Do 
 Laztandu nazazu orain ur urdinen artean, 
+                  Si                Do
 orain lainorik ez da, aurpegi biluziak, 
-ta larrua jotzean garrasirik ozenena. 
+               Si                 Do
+ta larrua jotzean garrasirik ozenena.
+               Si                   Fa
 Gordin amaigabea... negua joan da ta.
 
+[Fa Do SolmSi ] x 2
+
+Fa      Do        Solm       Si             Fa
 Jaioberrien antzera taupaden beharra dut orain,
+            Do            Solm               Si 
 belarriekin ikusteko nire begiek entzuten ez dutena.
+Fa       Do        Solm    Si        Fa
 Mesedez, ozen esan negua joan egin dela 
+      Do         Solm     Si 
 izara guztiak erre ditut eta.
 
+Do               Si                  Do 
 Laztandu nazazu orain ur urdinen artean,...
 
-Soinu bakar-bakarra zure bular aldean, 
-negua joan da ta... 
+[Fa Do SolmSi ]
+
+Fa    Do        Mim
+Soinu bakar-bakarra
+Fa   Do        Mim
+zure bular aldean, 
+Fa    Do      Solm Si 
+negua joan da ta...
+Fa     Do           Solm Si        Fa
 Borobildu zaizkit ertzak zure ondoan. 
-Izpi lasaigarri bat, negua joan da ta, negua joan da ta
-soinu bakar-bakarra, zure bular aldean, (hiru aldiz)
+Fa   Do         Solm   Si          Fa
+Izpi lasaigarri bat, negua joan da ta,
+Fa Do         Solm Si 
+negua joan da ta
+Fa    Do        Solm Si   
+soinu bakar-bakarra,      
+Fa   Do         Solm Si   
+zure bular aldean,
+Fa    Do        Solm      Si        Fa      |
+soinu bakar-bakarra, zure bular aldean,     | (bi aldiz)
+Fa  Do        Solm    Si        Fa
 negua joan da ta, negua joan da ta.
 ```
 
