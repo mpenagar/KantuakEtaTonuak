@@ -3,7 +3,7 @@
 * Egilea: ***Zea Mays***
 * Diska: Era
 * Urtea: 2010
-* Tonua: FaM
+* Tonua: FaM ([ReM-ko](NeguaJoanDaTa-ReM.md) bertsioa)
 
 ```
 Elurrak joan direnean nire mendien artean
