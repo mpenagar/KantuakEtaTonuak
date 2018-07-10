@@ -6,7 +6,7 @@
 * Tonua: FaM ( --> [ReM-ko](NeguaJoanDaTa-ReM.md) bertsioa)
 
 ```
-[Fa Do SolmSi ] x 4
+[Fa Do Solm Si] x 4
 
 Fa      Do         Solm       Si       Fa
 Elurrak joan direnean nire mendien artean
@@ -35,7 +35,7 @@ ta larrua jotzean garrasirik ozenena.
                Si                   Fa
 Gordin amaigabea... negua joan da ta.
 
-[Fa Do SolmSi ] x 2
+[Fa Do Solm Si] x 2
 
 Fa      Do        Solm       Si             Fa
 Jaioberrien antzera taupaden beharra dut orain,
@@ -49,7 +49,7 @@ izara guztiak erre ditut eta.
 Do               Si                  Do 
 Laztandu nazazu orain ur urdinen artean,...
 
-[Fa Do SolmSi ]
+[Fa Do Solm Si]
 
 Fa    Do        Mim
 Soinu bakar-bakarra
