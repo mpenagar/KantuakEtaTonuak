@@ -14,13 +14,13 @@
 
    Am
 Ni naiz
-         Asus4           Am
+         E7              Am
 erreka zikinen iturri garbiak
                E7               Am Asus4 Am Asus2
 aurkitu nahi dituen poeta tristea.
    Am
 Ni naiz
-         Asus4            Am
+         E7               Am
 kaleetan zehar neguko eguzkitan
           E7               Am Asus4 Am Asus2
 lanera dijoan gizon bakartia.
@@ -83,4 +83,6 @@ nora ote dijoan denbora aldakorrak daraman bidea.
 ![Asus2](../../KitarraAkordeak/Asus2.png)
 ![E7](../../KitarraAkordeak/E7.png)
 ![E](../../KitarraAkordeak/E.png)
-
+![A](../../KitarraAkordeak/A.png)
+![A7](../../KitarraAkordeak/A7.png)
+![A7_2](../../KitarraAkordeak/A7_2.png)
