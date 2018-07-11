@@ -1,10 +1,10 @@
 # Aurkibidea
 
-* [Behin batean Loiolan (Loiolan Jai Jai!)](Egileak/B/BehinBateanLoiolan.md) - Egan
-* [Bizkaia maite](Egileak/B/BizkaiaMaite.md) - Benito Lertxundi
-* [Negua joan da ta](Egileak/N/NeguaJoanDaTa.md) - Zea Mays
-* [Ni naiz](Egileak/N/NiNaiz.md) - Xabier Lete
-* [Txoria Txori](Egileak/T/TxoriaTxori.md) - Mikel Laboa
+* [Behin batean Loiolan (Loiolan Jai Jai!)](Kantuak/B/BehinBateanLoiolan.md) - Egan
+* [Bizkaia maite](Kantuak/B/BizkaiaMaite.md) - Benito Lertxundi
+* [Negua joan da ta](Kantuak/N/NeguaJoanDaTa.md) - Zea Mays
+* [Ni naiz](Kantuak/N/NiNaiz.md) - Xabier Lete
+* [Txoria Txori](Kantuak/T/TxoriaTxori.md) - Mikel Laboa
 
 
 
