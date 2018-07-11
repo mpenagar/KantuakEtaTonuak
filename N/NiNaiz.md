@@ -3,7 +3,7 @@
    * Egilea: ***Xabier Lete***
    * Diska: Xabier Lete
    * Urtea: 1974
-   * Tonua: Dom
+   * Tonua: Dom ( --> [Lam-ko](NiNaiz-Lam.md) bertsioa)
 
 
 ```
