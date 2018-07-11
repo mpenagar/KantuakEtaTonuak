@@ -6,7 +6,8 @@
 * Tonua: FaM ( --> [ReM-ko](NeguaJoanDaTa-ReM.md) bertsioa, kitarrarekin C3-n jotzeko)
 
 ```
-[Fa Do SolmSib] x 4
+| Fa Do Solm Sib | x 4
+
 
 Fa      Do         Solm       Sib      Fa
 Elurrak joan direnean nire mendien artean
@@ -35,7 +36,8 @@ ta larrua jotzean garrasirik ozenena.
                Sib                  Fa
 Gordin amaigabea... negua joan da ta.
 
-[Fa Do SolmSib] x 2
+
+| Fa Do Solm Sib | x 2
 
 Fa      Do        Solm       Sib            Fa
 Jaioberrien antzera taupaden beharra dut orain,
@@ -49,7 +51,7 @@ izara guztiak erre ditut eta.
 Do               Sib                 Do 
 Laztandu nazazu orain ur urdinen artean,...
 
-[Fa Do SolmSib]
+| Fa Do Solm Sib |
 
 Fa    Do        Solm
 Soinu bakar-bakarra
@@ -68,7 +70,7 @@ soinu bakar-bakarra,
 Fa   Do         Solm Sib  
 zure bular aldean,
 Fa    Do        Solm      Sib       Fa      |
-soinu bakar-bakarra, zure bular aldean,     | (bi aldiz)
+soinu bakar-bakarra, zure bular aldean,     | x 2
 Fa  Do        Solm    Sib       Fa
 negua joan da ta, negua joan da ta.
 ```
