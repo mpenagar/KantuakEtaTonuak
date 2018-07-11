@@ -3,21 +3,32 @@
    * Egilea: ***Xabier Lete***
    * Diska: Xabier Lete
    * Urtea: 1974
-   * Tonua: Lam ( --> [Dom-ko](NiNaiz-Dom.md) bertsioa)
+   * Tonua: Am ( --> [Cm-ko](NiNaiz-Cm.md) bertsioa)
 
 
 ```
-[ Lam Lamsus4 Lam Lamsus2 Lam
-Mi7 Mi Mi7
+[ Am Asus4 Am Asus2 Am
+E7 E E7
+Am Asus4 Am Asus2]
 
+
+   Am
 Ni naiz
+         Asus4           Am
 erreka zikinen iturri garbiak
+               E7               Am Asus4 Am Asus2
 aurkitu nahi dituen poeta tristea.
+   Am
 Ni naiz
+         Asus4            Am
 kaleetan zehar neguko eguzkitan
+          E7               Am Asus4 Am Asus2
 lanera dijoan gizon bakartia.
+A
 Ni naiz
+           A7               A7_2
 hostorik gabe gelditzen ari den
+
 ardaska lehorra.
 Ni naiz
 pasio zahar guztiak kixkali nahi dituen
@@ -66,8 +77,8 @@ nora ote dijoan denbora aldakorrak daraman bidea.
 ## Kitarra
 
 ![Am](../../KitarraAkordeak/Am.png)
-![Amsus4](../../KitarraAkordeak/Amsus4.png)
-![Amsus2](../../KitarraAkordeak/Amsus2.png)
+![Asus4](../../KitarraAkordeak/Asus4.png)
+![Asus2](../../KitarraAkordeak/Asus2.png)
 ![E7](../../KitarraAkordeak/E7.png)
 ![E](../../KitarraAkordeak/E.png)
 
