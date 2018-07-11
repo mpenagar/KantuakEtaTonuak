@@ -3,7 +3,7 @@
 * Egilea: ***Zea Mays***
 * Diska: Era
 * Urtea: 2010
-* Tonua: D ( --> [D-ko](NeguaJoanDaTa-ReM.md) bertsioa, kitarrarekin C3-n jotzeko)
+* Tonua: F/FaM ( --> [D/ReM-ko](NeguaJoanDaTa-D.md) bertsioa, kitarrarekin C3-n jotzeko)
 
 ```
 | Fa Do Solm Sib | x 4
