@@ -51,9 +51,9 @@ Laztandu nazazu orain ur urdinen artean,...
 
 [Fa Do SolmSib]
 
-Fa    Do        Mim
+Fa    Do        Solm
 Soinu bakar-bakarra
-Fa   Do        Mim
+Fa   Do        Solm
 zure bular aldean, 
 Fa    Do      Solm Sib
 negua joan da ta...
