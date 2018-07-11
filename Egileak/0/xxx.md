@@ -16,7 +16,5 @@
 ## Kitarrako akordeak
 
 ![Am](../../KitarraAkordeak/Am.png)
-<img alt="Am" src="../../KitarraAkordeak/Am.png" width="200">
-![Am](../../KitarraAkordeak/Am.png){:height="50%" width="50%"}
 ![Amsus4](../../KitarraAkordeak/Amsus4.png)
 ![Am](../../KitarraAkordeak/Amsus2.png)
