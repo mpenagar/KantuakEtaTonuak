@@ -3,7 +3,7 @@
 * Egilea: ***Zea Mays***
 * Diska: Era
 * Urtea: 2010
-* Tonua: ReM ( Zejilarekin C3-n jotzeko --> [FaM-ko](NeguaJoanDaTa-ReM.md) bertsioa)
+* Tonua: D ( Zejilarekin C3-n jotzeko --> [F-ko](NeguaJoanDaTa.md) bertsioa)
 
 ```
 | D  A  Em  G | x 4
@@ -81,4 +81,14 @@ D   A         Em      G         D
 negua joan da ta, negua joan da ta.
 ```
 
+
+## YouTube
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7jrRM7y8yHA/0.jpg)](http://www.youtube.com/watch?v=7jrRM7y8yHA)
+
+## Kitarra
+
+![D](../../KitarraAkordeak/D.png)
+![A](../../KitarraAkordeak/A.png)
+![Em](../../KitarraAkordeak/Em.png)
+![G](../../KitarraAkordeak/G.png)
