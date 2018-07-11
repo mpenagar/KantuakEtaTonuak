@@ -15,4 +15,4 @@
 
 ## Kitarrako akordeak
 
-![Am](../../KitarraAkordeak/Am.png) ![Amsus4](../../KitarraAkordeak/Amsus4.png) ![Am](../../KitarraAkordeak/Amsus2.png)
+![Am](../../KitarraAkordeak/Am.png | width=100) ![Amsus4](../../KitarraAkordeak/Amsus4.png) ![Am](../../KitarraAkordeak/Amsus2.png)
