@@ -13,7 +13,7 @@
 ## YouTube
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0NW7CZxOxhI/0.jpg)](http://www.youtube.com/watch?v=0NW7CZxOxhI)
 
-## Kitarrako akordeak
+## Kitarra
 
 ![Am](../../KitarraAkordeak/Am.png)
 ![Amsus4](../../KitarraAkordeak/Amsus4.png)
