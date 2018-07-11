@@ -7,9 +7,9 @@
 
 
 ```
-[ Am Asus4 Am Asus2 Am
-E7 E E7
-Am Asus4 Am Asus2]
+| Am Asus4 Am Asus2 Am |
+| E7 E E7              |
+| Am Asus4 Am Asus2    |
 
 
    Am
@@ -28,7 +28,7 @@ A
 Ni naiz
            A7               A7_2
 hostorik gabe gelditzen ari den
-
+            Em
 ardaska lehorra.
 Ni naiz
 pasio zahar guztiak kixkali nahi dituen
@@ -36,6 +36,8 @@ bihotz iheskorra.
 
 Ez zaidazu galdetu gauza ilun guztien arrazoi gordeaz, 
 nora ote dijoan denbora aldakorrak daraman bidea.
+
+| Asus4 Am Asus2 |
 
 Ni naiz
 burrukaren erdian ilunpetan etsita
