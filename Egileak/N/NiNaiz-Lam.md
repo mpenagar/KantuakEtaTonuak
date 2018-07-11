@@ -8,6 +8,7 @@
 
 ```
 [ Lam Lamsus4 Lam Lamsus2 Lam
+Mi7 Mi Mi7
 
 Ni naiz
 erreka zikinen iturri garbiak
@@ -58,5 +59,15 @@ Ez zaidazu galdetu gauza ilun guztien arrazoi gordeaz,
 nora ote dijoan denbora aldakorrak daraman bidea.
 ```
 
+## YouTube
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3gkA9UL0YqA/0.jpg)](http://www.youtube.com/watch?v=3gkA9UL0YqA)
+
+## Kitarra
+
+![Am](../../KitarraAkordeak/Am.png)
+![Amsus4](../../KitarraAkordeak/Amsus4.png)
+![Amsus2](../../KitarraAkordeak/Amsus2.png)
+![E7](../../KitarraAkordeak/E7.png)
+![E](../../KitarraAkordeak/E.png)
+
