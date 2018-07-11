@@ -10,7 +10,7 @@
 
 
 Ediziorako esteka batzuk:
-* [Abesti Hutsa](0/xxx.md)
+* [Abesti Hutsa](Egileak/xxx.md)
 * https://guides.github.com/features/mastering-markdown/
 * https://help.github.com/articles/basic-writing-and-formatting-syntax/
 * http://www.guitaracordes.com/tabla_de_acordes.php
