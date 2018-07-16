@@ -3,7 +3,7 @@
    * Egilea: ***Bilintx / Egan / John Denver***
    * Diska: Hemen Gaude
    * Urtea: 1985
-   * Tonua: SibM ( --> [SolM-ko](BehinBateanLoiolan-SolM.md) bertsioa)
+   * Tonua: SibM ( --> [SolM-ko](BehinBateanLoiolan-SolM.md) bertsioa, kitarrarekin C3-n jotzeko)
 
 
 ```
